@@ -1,0 +1,50 @@
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/bin/Debug/net8.0/appsettings.Development.json
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/bin/Debug/net8.0/appsettings.json
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/bin/Debug/net8.0/Testing
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/bin/Debug/net8.0/Testing.deps.json
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/bin/Debug/net8.0/Testing.runtimeconfig.json
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/bin/Debug/net8.0/Testing.dll
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/bin/Debug/net8.0/Testing.pdb
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/obj/Debug/net8.0/Testing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/obj/Debug/net8.0/Testing.AssemblyInfoInputs.cache
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/obj/Debug/net8.0/Testing.AssemblyInfo.cs
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/obj/Debug/net8.0/Testing.csproj.CoreCompileInputs.cache
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/obj/Debug/net8.0/Testing.MvcApplicationPartsAssemblyInfo.cache
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/obj/Debug/net8.0/staticwebassets.build.json
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/obj/Debug/net8.0/staticwebassets.development.json
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/obj/Debug/net8.0/staticwebassets/msbuild.Testing.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/obj/Debug/net8.0/staticwebassets/msbuild.build.Testing.props
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Testing.props
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Testing.props
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/obj/Debug/net8.0/scopedcss/bundle/Testing.styles.css
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/obj/Debug/net8.0/Testing.dll
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/obj/Debug/net8.0/refint/Testing.dll
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/obj/Debug/net8.0/Testing.pdb
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/obj/Debug/net8.0/Testing.genruntimeconfig.cache
+/Users/muhammadagungjulyansyah/Documents/Kuliah/DUA/CSHARP/Testing/obj/Debug/net8.0/ref/Testing.dll
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\bin\Debug\net8.0\appsettings.json
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\bin\Debug\net8.0\Testing.exe
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\bin\Debug\net8.0\Testing.deps.json
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\bin\Debug\net8.0\Testing.runtimeconfig.json
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\bin\Debug\net8.0\Testing.dll
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\bin\Debug\net8.0\Testing.pdb
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\obj\Debug\net8.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\obj\Debug\net8.0\Testing.AssemblyInfoInputs.cache
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\obj\Debug\net8.0\Testing.AssemblyInfo.cs
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\obj\Debug\net8.0\Testing.csproj.CoreCompileInputs.cache
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\obj\Debug\net8.0\Testing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\obj\Debug\net8.0\staticwebassets\msbuild.Testing.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\obj\Debug\net8.0\staticwebassets\msbuild.build.Testing.props
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Testing.props
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Testing.props
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\obj\Debug\net8.0\scopedcss\bundle\Testing.styles.css
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\obj\Debug\net8.0\Testing.dll
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\obj\Debug\net8.0\refint\Testing.dll
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\obj\Debug\net8.0\Testing.pdb
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\obj\Debug\net8.0\Testing.genruntimeconfig.cache
+C:\Users\ratuq\Documents\project UAS\CSHARP\Testing\obj\Debug\net8.0\ref\Testing.dll
